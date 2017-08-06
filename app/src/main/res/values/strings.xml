@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">High or Lower</string>
+
+    <string name="higher">Higher</string>
+    <string name="lower">Lower</string>
+
+    <string name="score">SCORE: %1$d</string>
+    <string name="default_num">50</string>
+
+    <string name="game_over">GAME OVER</string>
+
+    <!-- menu -->
+    <string name="reset">Reset</string>
+</resources>
